@@ -24,6 +24,9 @@ NA ETAPA 2, estão armazenados os resultados das correções da segunda versão 
 
 
 
+[BATERIA 1](Bateria1/README.md)
+
+
 [BATERIA 1](https://drive.google.com/drive/folders/1Vq1ItD6b1CEQsnEsWdSuBTtwto5jKJla?usp=drive_lin)
 
 
