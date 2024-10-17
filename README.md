@@ -3,7 +3,7 @@ Neste repositório você irá encontrar as instruções necessárias para análi
 
 ## O que é o Kariti? 
 
-O kariti é um sistema automatizado de correção de provas objetivas utilizando cartões respostas, o qual foi desenvolvido com intuito de colaborar com professores e o público em geral interressado em utiliza-lo, para realizar a correção de suas provas de forma prática e rápida.
+O Kariti é um sistema automatizado de correção de provas objetivas utilizando cartões respostas, o qual foi desenvolvido com intuito de colaborar com professores e o público em geral interressado em utiliza-lo, para realizar a correção de suas provas de forma prática e rápida.
 
 O Kariti foi desenvolvido na versão web utilizando as linguagens de programação Python, PHP, CSS e JavaScript. 
 
