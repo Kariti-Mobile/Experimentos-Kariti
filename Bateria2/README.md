@@ -14,6 +14,7 @@ Para cada pasta/área contém;
 * Uma planilha com **ANALISE DE TEMPO** das duas etapas de uso do aplicativo pelos professores no decorrer dos testes.
    * Os vídeos de gravação das telas da primeira etapa, assim como os vídeos de tutoriais apresentados aos professores, podem ser visualizados pelos links abaixo:
      *  [Química](https://docs.google.com/document/d/1Da5ND0qAeUwXg5haQ5nSaWDUGtZiarU_nzpPA3CqOFo/edit?usp=sharing)
+     *  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 * Uma planilha contendo resultados da **ANALISE DE CORREÇÃO** do kariti mobile, composta por 8 colunas:
   
