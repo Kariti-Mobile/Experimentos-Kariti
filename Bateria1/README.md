@@ -4,7 +4,7 @@ Nesta bateria, foram coletados resultados em duas etapas.
 
 Após análise do resultado da primeira etapa, observou-se que o desempenho do Kariti estava abaixo do esperado. Com isso, foram realizadas alterações no módulo de correção e replicado os testes com a nova versão do Kariti - denominando-a de segunda etapa.
 
-**OBS**. **NAS DUAS ETAPAS FORAM REALIZADOS OS TESTES UTILIZANDO OS MESMOS CARTÕES RESPOSTAS PREENCHIDOS**
+**OBS**. **NAS DUAS ETAPAS FORAM REALIZADOS OS TESTES UTILIZANDO OS MESMOS CARTÕES RESPOSTAS PREENCHIDOS (ENDEREÇO PARA DOWNLOAD DISPONÍVEL ABAIXO)**
 
 Em cada etapa estão armazenados os resultados de 5 áreas separadas por pastas.
 
