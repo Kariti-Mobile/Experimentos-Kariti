@@ -56,5 +56,8 @@ A planilha é composta por 8 informações:
    cd Experimentos-Kariti-2024\Bateria1
    ```
    
-3. a
+2. Execute o arquivo core_etapa1.py passando o nome do arquivo da imagem do cartão de respostas como parâmetro. Aqui, usaremos o cartão do aluno de código 259 da prova 103 como exemplo. Os resultados desse cartão são apresentados na planilha acima citada. Para facilitar a compreensão, será apresentado abaixo um print dos resultados alcançados para serem posteriormente reproduzidos aqui.
+   ![Resultados da primeira etapa para prova 259 (https://github.com/user-attachments/assets/1a00cc92-29f4-448c-811a-a34147b984bc)
+
+4. a
   
