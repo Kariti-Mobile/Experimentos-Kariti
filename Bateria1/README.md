@@ -20,9 +20,7 @@ A planilha é composta por 8 informações:
   * INFO 7: taxa de acerto do Kariti por prova
   * INFO 8: observações adicionais
 
-**ETAPA 1**: resultados de testes da primeira versão do Kariti Web.
-
-  Para análise dos resultados desta etapa, selecione a área desejada:
+**ETAPA 1**: planilha e imagens de cartões
   
   * [**Engenharia Florestal**](https://drive.google.com/drive/folders/1vdOpe2z-1R9QCWAHhGu8EjI3RYCK2dmR?usp=drive_link)
   
@@ -34,9 +32,7 @@ A planilha é composta por 8 informações:
   
   * [**Química**](https://drive.google.com/drive/folders/1yWxFRYng6wU8FaZAFhqjSMKgX9HjEOHw?usp=drive_link)
   
-**ETAPA 2**: resultado de testes da segunda versão do Kariti Web.
-
-  Para análise dos resultados desta etapa, selecione a área desejada:
+**ETAPA 2**: planilha e imagens de cartões
   
   * [**Engenharia Florestal**](https://drive.google.com/drive/folders/1HlIPCIyqhPNV08gmfWpft1ZJTD7WxJfI?usp=drive_link)
   
