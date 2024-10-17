@@ -15,14 +15,14 @@ Para cada pasta/área contém;
 
 * Uma planilha contendo resultados da **ANALISE DE CORREÇÃO** do kariti mobile, composta por 8 colunas:
   
-  * COLUNA 1: id das provas                            
-  * COLUNA 2: id dos alunos                            
-  * COLUNA 3: tipo de imagens - nesta bateria foram utilizadas imagens scanneadas em todos os casos                         
-  * COLUNA 4: respostas marcadas nos cartões - leitura realizada pela equipe           
-  * COLUNA 5: respostas lidas pelo Kariti para cada questão
-  * COLUNA 6: comparativo de acertos do Kariti para cada questão
-  * COLUNA 7: taxa de acerots do Kariti por prova
-  * COLUNA 8: observações
+  * INFO 1: id das provas                            
+  * INFO 2: id dos alunos                            
+  * INFO 3: tipo de imagens - nesta bateria foram utilizadas imagens scanneadas em todos os casos                         
+  * INFO 4: respostas marcadas nos cartões - leitura realizada pela equipe           
+  * INFO 5: respostas lidas pelo Kariti para cada questão
+  * INFO 6: comparativo de acertos do Kariti para cada questão
+  * INFO 7: taxa de acerots do Kariti por prova
+  * INFO 8: observações
 
  Para análise dos resultados desta bateria, selecione a área desejada:
   
