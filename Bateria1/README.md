@@ -20,7 +20,7 @@ A planilha é composta por 8 colunas:
   * COLUNA 7: taxa de acerots do Kariti por prova
   * COLUNA 8: observações
 
-**ETAPA 1**: resultados da primeira versão do Kariti Web.
+**ETAPA 1**: resultados de testes da primeira versão do Kariti Web.
 
   Para análise dos resultados desta etapa, selecione a área desejada:
   
@@ -34,7 +34,7 @@ A planilha é composta por 8 colunas:
   
   [**Química**](https://drive.google.com/drive/folders/1yWxFRYng6wU8FaZAFhqjSMKgX9HjEOHw?usp=drive_link)
   
-**ETAPA 2**: resultado da segunda versão do Kariti Web.
+**ETAPA 2**: resultado de testes da segunda versão do Kariti Web.
 
   Para análise dos resultados desta etapa, selecione a área desejada:
   
@@ -55,5 +55,9 @@ A planilha é composta por 8 colunas:
   [**Visualizar**](https://docs.google.com/spreadsheets/d/1VdV9m1zshh1lKUUFrQg2w275KWqBOP3i/edit?usp=drive_link&ouid=109582750218571513653&rtpof=true&sd=true)
 
 # Como reproduzir os testes ?
+
+ Caso tenha interresse em reproduzir os testes realizados com o Kariti nas duas etapas, siga as orientações a seguir.
+
+ 1. Baixar as imagens dos cartões respostas da área de interesse, na sua máquina.
 
   
