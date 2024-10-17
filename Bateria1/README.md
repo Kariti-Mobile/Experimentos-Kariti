@@ -6,7 +6,7 @@ Após análise do resultado da primeira etapa, observou-se que o desempenho do K
 
 **OBS**. **NAS DUAS ETAPAS FORAM REALIZADOS OS TESTES UTILIZANDO OS MESMOS CARTÕES RESPOSTAS PREENCHIDOS (ENDEREÇO PARA DOWNLOAD DISPONÍVEL ABAIXO)**
 
-Em cada etapa estão armazenados os resultados de 5 áreas separadas por pastas.
+Em cada etapa estão armazenados os resultados de 5 áreas separadas por pastas - listadas posteriormente.
 
 Cada pasta/área contém uma pasta chamada **IMAGENS-CARTOES** com todas as imagens utilizadas nos teste da determinada área e uma planilha com os resultados de correção.
 
