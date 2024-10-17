@@ -56,8 +56,18 @@ A planilha é composta por 8 informações:
    cd Experimentos-Kariti-2024\Bateria1
    ```
    
-2. Execute o arquivo core_etapa1.py passando o nome do arquivo da imagem do cartão de respostas como parâmetro. Aqui, usaremos o cartão do aluno de código 259 da prova 103 como exemplo. Os resultados desse cartão são apresentados na planilha acima citada. Para facilitar a compreensão, será apresentado abaixo um print dos resultados alcançados para serem posteriormente reproduzidos aqui.
+2. Execute o arquivo core_etapa1.py passando o nome do arquivo da imagem do cartão de respostas como parâmetro. Aqui, usaremos o cartão do aluno de código 259 da prova 103 como exemplo. A imagem desse cartão pode ser observada abrindo o arquivo 103_259_10_5.png (na pasta atual) e os resultados desse cartão são apresentados na planilha acima citada. Para facilitar a compreensão, será apresentado abaixo um print dos resultados alcançados para serem posteriormente reproduzidos aqui.
    ![Resultados da primeira etapa para prova 259](https://github.com/user-attachments/assets/1a00cc92-29f4-448c-811a-a34147b984bc)
+
+Nas primeiras colunas, são apresentadas as respostas do cartão de resposta digitados por humanos, como referência. Posteriormente, são apresentados os resultados obtivos pelo Kariti Core, que não conseguiu corrigir corretamente nenhuma das questões. Para visualizar esse comportamento, execute:
+
+```
+python core_etapa1.py 103_259_10_5.png
+```
+Essa execução produzirá a saída abaixo, em que se observa que o Kariti Core encontrou 11 marcadores de questões, porém, a prova possui apenas 10 questões. Logo, a prova não foi corrigida.
+
+![image](https://github.com/user-attachments/assets/b1dca593-88fd-4eb4-b840-dbca0af2762d)
+
 
 4. a
   
