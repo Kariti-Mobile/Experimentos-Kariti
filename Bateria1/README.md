@@ -10,15 +10,15 @@ Em cada etapa estão armazenados os resultados de 5 áreas separadas por pastas 
 
 Cada pasta/área contém uma pasta chamada **IMAGENS-CARTOES** com todas as imagens utilizadas nos teste da determinada área e uma planilha com os resultados de correção.
 
-A planilha é composta por 8 colunas:
-  * COLUNA 1: id das provas                            
-  * COLUNA 2: id dos alunos                            
-  * COLUNA 3: tipo de imagens - nesta bateria foram utilizadas imagens scanneadas em todos os casos                         
-  * COLUNA 4: respostas marcadas nos cartões - leitura realizada pela equipe           
-  * COLUNA 5: respostas lidas pelo Kariti para cada questão
-  * COLUNA 6: comparativo de acertos do Kariti para cada questão
-  * COLUNA 7: taxa de acerots do Kariti por prova
-  * COLUNA 8: observações
+A planilha é composta por 8 informações:
+  * INFO 1: id das provas                            
+  * INFO 2: id dos alunos                            
+  * INFO 3: tipo de imagens - nesta bateria foram utilizadas imagens scanneadas em todos os casos                         
+  * INFO 4: respostas marcadas nos cartões - leitura realizada pela equipe com uma coluna para cada questão          
+  * INFO 5: respostas lidas pelo Kariti - uma coluna para cada questão
+  * INFO 6: comparativo de acertos do Kariti para cada questão
+  * INFO 7: taxa de acerto do Kariti por prova
+  * INFO 8: observações adicionais
 
 **ETAPA 1**: resultados de testes da primeira versão do Kariti Web.
 
