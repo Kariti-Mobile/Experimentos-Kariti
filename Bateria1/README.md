@@ -48,7 +48,7 @@ A planilha é composta por 8 informações:
 
 **Preparação de ambiente**: Para executar os códigos de correção de ambas as etapas, é necessário instalar previamente o Python 3.8.5 ou superior. Posteriormente, devem ser instalados os pacotes de dependência disponíveis em [aqui para download](../requirements.txt). Em posse do arquivo, execute `pip install -r requirements.txt` no terminal. Por fim, clone este repositório.
 
-**ETAPA 1**: Abaixo será apresentada a forma de reprodução de um dos resultados referente a uma prova da área de Química, de modo que, com base nessa reprodução, ao demais poderão também ser realizados alterando-se o nome da imagem do cartão de resposta (caminhos para todos os cartões de todas as áreas apresentados nos links acima).
+**ETAPA 1**: Abaixo será apresentada a forma de reprodução de um dos resultados referente a uma prova da área de Química, de modo que, com base nessa reprodução, as demais poderão também ser realizados alterando-se o nome da imagem do cartão de resposta (caminhos para todos os cartões de todas as áreas apresentados nos links acima).
 
 1. Entre na pasta clonada e acesse a pasta Bateria1
 
@@ -69,5 +69,26 @@ Essa execução produzirá a saída abaixo, em que se observa que o Kariti Core 
 ![image](https://github.com/user-attachments/assets/b1dca593-88fd-4eb4-b840-dbca0af2762d)
 
 
-4. a
+**ETAPA 2**: Abaixo será apresentada a forma de reprodução de resultados da mesma prova acima, contudo, podendo ser repetida para as demais provas alterando-se o nome da imagem do cartão de resposta (caminhos para todos os cartões de todas as áreas apresentados nos links acima).
+
+1. Entre na pasta clonada e acesse a pasta Bateria1
+
+   ```
+   cd Experimentos-Kariti-2024\Bateria1
+   ```
+   
+2. Execute o arquivo core_etapa2.py passando o nome do arquivo da imagem do cartão de respostas como parâmetro. Para facilitar a compreensão, será apresentado abaixo um print dos resultados alcançados (na segunda etapa) para serem posteriormente reproduzidos aqui.
+
+![image](https://github.com/user-attachments/assets/e61f1060-8646-41c9-98e0-21427ccebad9)
+
+Observa-se pela imagem que todas as questões foram corrigidas corretamente, como veremos na reprodução abaixo. Para isso, execute:
+
+```
+python core_etapa2.py 103_259_10_5.png
+```
+
+Essa execução produzirá a saída abaixo, em que se observa na quinta informação separada por ponto-e-vírgula quais foram as respostas identificadas pelo Kariti Core (com A=1, B=2, C=3, D=4 e E=5). Assim, o Kariti Core identificou, nesta ordem, as seguintes respostas: C, B, A, C, C, A, A, A, D e B. Alcançando, portanto, 100% de taxa de acerto para essa prova.
+
+![image](https://github.com/user-attachments/assets/8195468d-5bfd-4de8-8c11-8943f35774e9)
+
   
