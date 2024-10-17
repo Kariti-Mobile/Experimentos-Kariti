@@ -46,12 +46,15 @@ A planilha é composta por 8 informações:
 
 # Como reproduzir os testes ?
 
-**Preparação de ambiente**: Para executar os códigos de correção de ambas as etapas, é necessário instalar previamente o Python 3.8.5 ou superior. Posteriormente, devem ser instalados os pacotes de dependência disponíveis em [aqui para download](../requirements.txt). Em posse do arquivo, execute `pip install -r requirements.txt` no terminal.
+**Preparação de ambiente**: Para executar os códigos de correção de ambas as etapas, é necessário instalar previamente o Python 3.8.5 ou superior. Posteriormente, devem ser instalados os pacotes de dependência disponíveis em [aqui para download](../requirements.txt). Em posse do arquivo, execute `pip install -r requirements.txt` no terminal. Por fim, clone este repositório.
 
-**ETAPA 1**: 
-  * 
- Caso tenha interresse em reproduzir os testes realizados com o Kariti nas duas etapas, siga as orientações a seguir.
+**ETAPA 1**: Abaixo será apresentada a forma de reprodução de um dos resultados referente a uma prova da área de Química, de modo que, com base nessa reprodução, ao demais poderão também ser realizados alterando-se o nome da imagem do cartão de resposta (caminhos para todos os cartões de todas as áreas apresentados nos links acima).
 
- 1. Baixar as imagens dos cartões respostas da área de interesse, na sua máquina.
+1. Entre na pasta clonada e acesse a pasta Bateria1
 
+   ```
+   cd Experimentos-Kariti-2024\Bateria1
+   ```
+   
+3. a
   
