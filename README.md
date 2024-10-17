@@ -7,7 +7,7 @@ O Kariti é um sistema automatizado de correção de provas objetivas utilizando
 
 O Kariti foi desenvolvido na versão web utilizando as linguagens de programação Python, PHP, CSS e JavaScript. 
 
-Posteriromente, foi desenvolvida uma versão mobile da aplicação utilizando a linguagem Java,  com o objetivo de ampliar o alcance do sistema. 
+Posteriormente, foi desenvolvida uma versão mobile da aplicação utilizando a linguagem Java para sistemas Android, com o objetivo de ampliar o alcance do sistema. 
 
 ## Como foram realizados os testes?
 
