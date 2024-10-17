@@ -44,14 +44,9 @@ A planilha é composta por 8 informações:
   
   * [**Química**](https://drive.google.com/drive/folders/1KeP2F39zn3ofKF1gLN_awl3TdXP27ORF?usp=drive_link)
 
-**ETAPA 1 X ETAPA 2**
-
-  Análise comparativa de desempenho do Kariti nas duas etapas.
-
-   * [**Visualizar**](https://docs.google.com/spreadsheets/d/1VdV9m1zshh1lKUUFrQg2w275KWqBOP3i/edit?usp=drive_link&ouid=109582750218571513653&rtpof=true&sd=true)
-
 # Como reproduzir os testes ?
 
+**ETAPA 1**: planilha e imagens de cartões
  Caso tenha interresse em reproduzir os testes realizados com o Kariti nas duas etapas, siga as orientações a seguir.
 
  1. Baixar as imagens dos cartões respostas da área de interesse, na sua máquina.
