@@ -46,7 +46,10 @@ A planilha é composta por 8 informações:
 
 # Como reproduzir os testes ?
 
-**ETAPA 1**: planilha e imagens de cartões
+**Preparação de ambiente**: Para executar os códigos de correção de ambas as etapas, é necessário instalar previamente o Python 3.8.5 ou superior. Posteriormente, devem ser instalados os pacotes de dependência disponíveis em [aqui para download](blob/main/requirements.txt). Em posse do arquivo, execute `pip install -r requirements.txt` no terminal.
+
+**ETAPA 1**: 
+  * 
  Caso tenha interresse em reproduzir os testes realizados com o Kariti nas duas etapas, siga as orientações a seguir.
 
  1. Baixar as imagens dos cartões respostas da área de interesse, na sua máquina.
