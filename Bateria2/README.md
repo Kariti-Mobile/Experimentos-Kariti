@@ -24,7 +24,7 @@ Para cada pasta/área contém;
   * INFO 7: taxa de acerots do Kariti por prova
   * INFO 8: observações
 
- Para análise dos resultados desta bateria, selecione a área desejada:
+ Os arquivos para análise e reprodução dos resultados de desempenho desta bateria podem ser obtidos nos links abaixo conforme a área:
   
   * [**Engenharia Florestal**](https://drive.google.com/drive/folders/14uIozrXHh0BCOEHawuRp_c6qrZ4pbu7Q?usp=drive_link)
   
@@ -36,7 +36,7 @@ Para cada pasta/área contém;
   
   * [**Química**](https://drive.google.com/drive/folders/1_WGwChqmGMq-wP0reLwYYpi-h15OvB5F?usp=drive_link)
 
-Para análise do questionários acesse: 
+Para análise do questionários de usabilidade acesse: 
 
   * [**Análise Geral**](https://docs.google.com/spreadsheets/d/1mEh-yzPsXIu1RUQJ5Xb0T9VTLs5ajxbj/edit?usp=drive_link&ouid=109582750218571513653&rtpof=true&sd=true)
     
