@@ -46,7 +46,7 @@ A planilha é composta por 8 informações:
 
 # Como reproduzir os testes ?
 
-**Preparação de ambiente**: Para executar os códigos de correção de ambas as etapas, é necessário instalar previamente o Python 3.8.5 ou superior. Posteriormente, devem ser instalados os pacotes de dependência disponíveis em [aqui para download](main/requirements.txt). Em posse do arquivo, execute `pip install -r requirements.txt` no terminal.
+**Preparação de ambiente**: Para executar os códigos de correção de ambas as etapas, é necessário instalar previamente o Python 3.8.5 ou superior. Posteriormente, devem ser instalados os pacotes de dependência disponíveis em [aqui para download](../requirements.txt). Em posse do arquivo, execute `pip install -r requirements.txt` no terminal.
 
 **ETAPA 1**: 
   * 
