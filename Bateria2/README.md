@@ -1,8 +1,8 @@
 # Resultados de testes da segunda bateria
 
-Nesta bateria, foram coletados dados de testes do Kariti na versão mobile em duas etapas.
-  * Etapa 1: cadastro de usuário, de dados das provas e downloads dos cartões respostas gerados no aplicativo - etapa realizada pelo professor colaborador.
-  * ETAPA 2: correção das provas usando o aplicativo - etapa realizada pelo professor colaborador.
+Nesta bateria, foram coletados dados de testes do Kariti na versão mobile em duas fases.
+  * FASE 1: cadastro de usuário, de dados das provas e downloads dos cartões respostas gerados no aplicativo - fase realizada pelo professor colaborador.
+  * FASE 2: correção das provas usando o aplicativo - fase realizada pelo professor colaborador.
 
 Os dados dos experimentos estão organizados da seguinde forma:
 
@@ -11,10 +11,14 @@ O resultado de cada área estão contidos em suas respectivas pastas.
 Para cada pasta/área contém;
 * Uma pasta chamada **IMAGENS CARTOES** com as imagens dos cartões respostas submetidos a correção do Kariti (exceto na área de Engenharia Florestal - imagens perdidas devido a falhas técnicas).
 
-* Uma planilha com **ANALISE DE TEMPO** das duas etapas de uso do aplicativo pelos professores no decorrer dos testes.
-   * Os vídeos de gravação das telas da primeira etapa, assim como os vídeos de tutoriais apresentados aos professores, podem ser visualizados pelos links abaixo:
-     *  [Química](https://docs.google.com/document/d/1Da5ND0qAeUwXg5haQ5nSaWDUGtZiarU_nzpPA3CqOFo/edit?usp=sharing)
-     *  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+* Uma planilha com **ANALISE DE TEMPO** das duas fases de uso do aplicativo pelos professores no decorrer dos testes.
+   * Os vídeos de gravação das telas das duas fases, assim como os vídeos de tutoriais apresentados aos professores, podem ser visualizados pelos links abaixo:
+     *  [**Engenharia Florestal**](https://docs.google.com/document/d/1ufQ9z3Zq007GvdXshEDcldUhMpl8Z1-mNzV7YRfRx0I/edit?usp=drive_link)
+     *  [**Licenciatuara em Computação**](https://docs.google.com/document/d/1tHcvqycd-iFoZPlg0sDrrBmPRdPwfj5ATbyg78BbJes/edit?usp=drive_link)
+     *  [**Geografia**](https://docs.google.com/document/d/10rCGtG6o78akjDBBMsKrw2kvYWc0mGx6BVbUR7sqxcA/edit?usp=drive_link)
+     *  [**Matemática**](https://docs.google.com/document/d/1WBH7_0U0uxwxF4NLuGagWPitL9i6MdB12FeGT10UbRY/edit?usp=drive_link)
+     *  [**Química**](https://docs.google.com/document/d/1Da5ND0qAeUwXg5haQ5nSaWDUGtZiarU_nzpPA3CqOFo/edit?usp=sharing)
+     
 
 * Uma planilha contendo resultados da **ANALISE DE CORREÇÃO** do kariti mobile, composta por 8 colunas:
   
